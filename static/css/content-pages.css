@@ -13,7 +13,7 @@ body.content-page {
     padding: 120px 1rem 2rem 1rem;
     font-family: 'Vazirmatn', system-ui, sans-serif;
     background: linear-gradient(180deg, rgba(6, 10, 14, 0.95), rgba(12, 18, 24, 0.9)),
-        url('../images/amiibo_bg.png') center/420px repeat;
+        url('../images/amiibo_bg.webp') center/420px repeat;
     background-attachment: fixed;
     min-height: 100vh;
     display: flex;
